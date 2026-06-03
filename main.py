@@ -36,7 +36,7 @@ try:
 except ImportError:
     HAS_TREEPOEM = False
 
-#条形码生成（python-barcode，纯 Python，无外部依赖）
+#条形码生成（python-barcode）
 try:
     import barcode
     from barcode.writer import ImageWriter
