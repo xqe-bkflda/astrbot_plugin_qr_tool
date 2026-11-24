@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="assets/banner.png" alt="astrbot_plugin_qr_tool" width="100%">
+</div>
+
+<p align="center">
+[![AstrBot](https://img.shields.io/badge/AstrBot%20plugin-2A3B52?style=flat-square)](https://github.com/AstrBotDevs/AstrBot)
+  [![License](https://img.shields.io/badge/license-MIT-3DDC84?style=flat-square)](LICENSE)
+  [![Stars](https://img.shields.io/github/stars/xqe-bkflda/astrbot_plugin_qr_tool?style=flat-square&color=8FA5BA)](https://github.com/xqe-bkflda/astrbot_plugin_qr_tool/stargazers)
+</p>
+
 # 二维码/条码工具箱 for AstrBot
 
 一个支持二维码/条码生成与识别的 AstrBot 插件，额外支持带Logo二维码、动态二维码和多种条形码。
